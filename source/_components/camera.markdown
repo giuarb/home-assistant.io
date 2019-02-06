@@ -79,5 +79,6 @@ A simple way to test if you have set up your `camera` platform correctly, is to 
 ```json
 {
   "entity_id": "camera.living_room_camera"
+  "filename": "/putyourpathhere/tmp/snapshot.jpg"
 }
 ```
